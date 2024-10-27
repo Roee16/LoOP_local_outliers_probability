@@ -1,0 +1,3 @@
+# LoOP_local_outliers_probability
+LoOP_local_outliers_probability, local Outlier Probabilities is a local density-based outlier detection approach which provides outlier scores in the range of [0,1] that are directly interpretable as the probability of a sample being an outlier. Local Outlier Probabilities (LoOP) applied to....
+motivation: clean and fast code version in python to local Outlier Probabilities
